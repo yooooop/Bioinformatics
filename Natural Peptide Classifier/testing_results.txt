@@ -1,0 +1,13 @@
+=== Score1 (3-mer model) ===
+Runtime: 0.038974 seconds
+Peak memory: 133.48 KB
+accuracy: 300/500
+parameter building runtime: 2460.569832 seconds
+parameter building peak memory: 473083.87 KB
+
+=== Score2 (4-mer model) ===
+Runtime: 0.842328 seconds
+Peak memory: 15917.93 KB
+accuracy: 329/500
+parameter building runtime: 2816.901204 seconds
+parameter building peak memory: 510976.38 KB
