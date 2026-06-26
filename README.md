@@ -150,4 +150,4 @@ Also, any value below the threshold of **1e-2** is discarded/set to 0.
 
 ## Additional Information
 
-Please look at the report in the **Peptide MS/MS Spectrum Prediction** folder.
+Please look at the report.pdf in the repository for detailed results of the model.
